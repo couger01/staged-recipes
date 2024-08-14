@@ -12,3 +12,12 @@ __pycache__
 *.swp
 .idea
 *.iml
+.vscode
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/*
+
+# pixi environments
+.pixi
+pixi.toml
+pixi.lock
